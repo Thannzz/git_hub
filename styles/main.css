@@ -1,0 +1,89 @@
+body {
+    margin: 0px;
+  }
+  #navbar {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: black;
+    color: white;
+  }
+  a {
+    text-decoration: none;
+    color: white;
+  }
+  #logo {
+    width: 5%;
+    text-align: right;
+  }
+  #logo img {
+    width: 30%;
+    border-radius: 80%;
+    padding: 9px;
+  }
+  #profile img {
+    border-radius: 80%;
+    width: 50%;
+    height: 35px;
+    padding-top: 7%;
+  }
+  #search {
+    width: 10%;
+    padding: 12px;
+  }
+  ul {
+    padding-left: 0px;
+  }
+  
+  #list li {
+    display: inline;
+    margin-right: 2%;
+  }
+  #options {
+    width: 75%;
+  }
+  #profile {
+    width: 5%;
+  }
+  
+  
+  #main{
+  padding: 3%;
+  }
+
+  #parent{
+    display: flex;
+  }
+
+  #left{
+    width: 25%;
+    height: 500px;
+    border: 1px red solid;
+    background-color: black;
+    color: white;
+  }
+  #right{
+    width: 75%;
+    height: 500px;
+    border: 1px blue solid;
+    background-color: black;
+    color: white;
+  } 
+  .pic{
+    width: 70%;
+    height: 50%;
+    margin-left: 10%;
+    border-radius: 50%;
+    margin-top: 10%;
+    background-color: black;
+    color: white;
+
+  } 
+  .user{
+    margin-left: 35%;
+  }
+  .namebox{
+    display: flex;
+  }
+  .status{
+    margin-left: 20px;
+  }
