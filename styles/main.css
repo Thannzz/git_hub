@@ -56,15 +56,15 @@ body {
 
   #left{
     width: 25%;
-    height: 500px;
-    border: 1px red solid;
+    height: auto;
+    /* border: 1px red solid; */
     background-color: black;
     color: white;
   }
   #right{
     width: 75%;
-    height: 500px;
-    border: 1px blue solid;
+    height: auto;
+    /* border: 1px blue solid; */
     background-color: black;
     color: white;
   } 
